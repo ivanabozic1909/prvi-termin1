@@ -1,2 +1,5 @@
 "Neki tekst" 
+
 na master grani
+na novoj grani
+
